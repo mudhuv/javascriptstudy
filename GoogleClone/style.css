@@ -1,0 +1,9 @@
+header { text-align:right; word-spacing: 5px; }
+header a { position: relative; top: -17px; }
+header img { border-radius: 25px; transform: scale(0.7); }
+section { text-align: center; }
+#logo { transform: scale(0.6); }
+
+#searchbox { transform: scale(0.8); }
+#textbox { border-radius: 6px; width: 600px; height: 20px; position: relative; top: -15px; }
+#keyboard { position: relative; top: -14px; }
